@@ -24,7 +24,7 @@ Follow the instructions below if you prefer to install the application on your l
 
 1. Install the latest version of [Node.js](https://nodejs.org). This application requires Node.js 4.x.
 
-1. Install [Postgres](http://www.postgresql.org/) locally and create a database called **reactu**.
+1. Install [Postgres](http://www.postgresql.org/) locally and create a database called **university**.
 
 1. Clone this repository or download and unzip [this](https://github.com/ccoenraets/react-university/archive/master.zip) zip file.
 
