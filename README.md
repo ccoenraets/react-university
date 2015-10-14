@@ -4,7 +4,7 @@ React University is a sample project demonstrating how to build applications wit
 
 Check out this video for a quick walkthrough:
 
-[![Video](http://img.youtube.com/vi/UZtvQazYX8A/0.jpg)](http://www.youtube.com/watch?v=32Agr6QWmqU)
+[![Video](http://img.youtube.com/vi/32Agr6QWmqU/0.jpg)](http://www.youtube.com/watch?v=32Agr6QWmqU)
 
 The back-end is built with **Node.js** using a **Postgres** database. 
 
