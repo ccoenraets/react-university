@@ -1,0 +1,22 @@
+.menu {
+    background-color: #01344E;
+}
+
+.menu>ul>li>a:link {
+    display: block;
+    padding: 8px;
+}
+
+.menu>ul>li>a:hover {
+    background-color: rgba(6,28,63,1);
+}
+
+.menu>ul>li>a:link,
+.menu>ul>li>a:visited {
+    color: #eee;
+}
+
+.slds-modal__container {
+    width: 80%;
+    max-width: 80%;
+}

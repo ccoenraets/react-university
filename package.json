@@ -1,0 +1,31 @@
+{
+  "name": "react-university",
+  "version": "1.0.0",
+  "description": "Sample Application with React and the Lightning Design System",
+  "engines": {
+    "node": "4.2.1"
+  },
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-client": "browserify www/js/app.js -t babelify -o www/js/bundle.js",
+    "start": "node server.js"
+  },
+  "author": "Christophe Coenraets <ccoenraets@gmail.com> (http://coenraets.org/)",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.0",
+    "compression": "^1.5.2",
+    "express": "^4.13.3",
+    "pg": "^4.4.2"
+  },
+  "devDependencies": {
+    "babel": "^5.8.23",
+    "babelify": "^6.3.0",
+    "browserify": "^11.2.0",
+    "moment": "^2.10.6",
+    "react": "^0.13.3",
+    "react-onclickoutside": "^0.3.1",
+    "react-router": "^1.0.0-rc3"
+  }
+}

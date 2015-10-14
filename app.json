@@ -1,0 +1,6 @@
+{
+  "name": "React University",
+  "description": "Reference app built with React and the Lightning Design System",
+  "repository": "https://github.com/ccoenraets/react-university",
+  "addons": ["heroku-postgresql:hobby-dev"]
+}
