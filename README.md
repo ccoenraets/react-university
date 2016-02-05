@@ -41,7 +41,7 @@ Follow the instructions below if you prefer to install the application on your l
 1. Type the following command to build the client application:
 
     ```
-    npm run build-client
+    npm run webpack
     ```
     
     The project is written using ECMAScript 6 including ECMAScript 6 modules.
